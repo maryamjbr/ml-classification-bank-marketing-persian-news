@@ -1,0 +1,13 @@
+# Recommended runtime: Python 3.11
+numpy>=1.26,<3
+pandas>=2.0,<3
+matplotlib>=3.8,<4
+seaborn>=0.13,<1
+scikit-learn>=1.4,<2
+imbalanced-learn>=0.12,<1
+xgboost>=2.0,<4
+hazm>=0.10,<1
+arabic-reshaper>=3.0,<4
+python-bidi>=0.6,<1
+wordcloud>=1.9,<2
+jupyterlab>=4,<5

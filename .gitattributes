@@ -1,0 +1,6 @@
+*.ipynb linguist-language=Jupyter Notebook
+*.csv text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.pdf binary

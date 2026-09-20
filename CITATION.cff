@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this educational project, please cite it as follows."
+title: "Machine Learning Classification: Bank Marketing and Persian News"
+type: software
+authors:
+  - family-names: Jabbari
+    given-names: Maryam
+repository-code: "https://github.com/maryamjbr/ml-classification-bank-marketing-persian-news"
+license: MIT
+version: 1.0.0
+date-released: 2026-09-18
+keywords:
+  - machine learning
+  - classification
+  - bank marketing
+  - Persian NLP
+  - Naive Bayes
